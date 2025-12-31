@@ -5,6 +5,7 @@ import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 const GA_MEASUREMENT_ID = "G-CLQYC4HRE3";
+const ADSENSE_ID = "ca-pub-6678501910155801";
 
 const inter = Inter({
   variable: "--font-inter",
